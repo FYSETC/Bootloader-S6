@@ -20,9 +20,9 @@ Open the STM32CubeProgrammer software.
 
 First power off the board , then push the Boot0 button and hold it , then connect the USB to the board and your computer , it will enter DFU mode . Now you can loose you hand from Boot0 button.
 
-##### Upload the firmware
+##### Upload the bootloader
 
-Now you can connect and flash the S6 board with stm32cubeprogrammer with the following operation.
+Now you can connect and flash the S6 board with STM32CubeProgrammer with the following operation.
 
 ![1574386395071](Documents/images/Steps.png)
 
